@@ -1,2 +1,2 @@
 # magfloc
-Predicting harvesting efficiency of microalgae by magnetic nanoparticles using machine learning models
+Predicting harvesting efficiency of microalgae with magnetic nanoparticles using machine learning models
